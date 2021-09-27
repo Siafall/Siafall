@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siafall&label=Profile%20views&color=0e75b6&style=flat" alt="siafall" /> </p>
 
-- 🔭 I’m currently working at [ESIEE-IT] (looking for an apprenticeship)
+- 🔭 I’m currently working at ESIEE-IT looking for an apprenticeship
 
 - 🌱 I’m currently learning **Ruby, rails, JS**
 
 - 👯 I’m looking to collaborate on **everything I can learn or show my skills on**
 
-- 👨‍💻 All of my projects are not available [because they are in private](because they are in private)
+- 👨‍💻 All of my projects are not available because they are in private
 
 - 💬 Ask me about **anything**
 
