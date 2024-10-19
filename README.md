@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siafall&label=Profile%20views&color=0e75b6&style=flat" alt="siafall" /> </p>
 
-- 🔭 I’m currently working at ESIEE-IT looking for an apprenticeship
+- 🔭 I’m currently a student
 
 - 🌱 I’m currently learning **Ruby, rails, JS**
 
